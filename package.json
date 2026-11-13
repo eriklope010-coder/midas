@@ -1,0 +1,9 @@
+{
+  "name": "jarvis-midas",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Servidor gratuito de JARVIS MIDAS con Google Gemini",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" }
+}

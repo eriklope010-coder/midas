@@ -1,0 +1,7 @@
+Variables que hay que poner en Render (Environment). NUNCA las subas a GitHub.
+
+GEMINI_API_KEY      = tu clave gratuita de Google AI Studio (aistudio.google.com > Get API key)
+TAVILY_API_KEY      = (opcional) clave gratuita de tavily.com para noticias y actualidad. Sin ella, solo Wikipedia.
+ALLOWED_ORIGINS     = https://TU-USUARIO.github.io
+JARVIS_DEVICE_TOKEN = una contraseña inventada de 32 letras/números o más (la misma que pegarás en la web)
+GEMINI_MODEL        = (opcional) gemini-3.8-flash por defecto. Si da error de modelo, prueba gemini-3.6-flash
